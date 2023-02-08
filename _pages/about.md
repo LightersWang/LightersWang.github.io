@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Haoran Wang. I'm a PhD candidate in Shanghai Medical College, Fudan University. My reseach interests include medical image analysis and active learning.
+My name is Haoran Wang. I'm a PhD candidate in Shanghai Medical College, Fudan University. My reseach interests are medical image analysis and active learning.
 
 
 News
