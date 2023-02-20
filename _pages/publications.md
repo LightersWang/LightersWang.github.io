@@ -15,7 +15,7 @@ Shiman Li, __Haoran Wang__, Yucong Meng, Chenxi Zhang, Zhijian Song
 
 ### 2022
 4. **EndoBoost: a plug-and-play module for false positive suppression during computer-aided polyp detection in real-world colonoscopy (with dataset)**  
-__Haoran Wang<sup>\*</sup>__, Yan Zhu<sup>\*</sup>, Wenzheng Qin<sup>\*</sup>, Yizhe Zhang, Pinghong Zhou, Quanlin Li, [Shuo Wang](https://swang.miccai.cloud/), Zhijian Song  
+__Haoran Wang<sup>\*</sup>__, Yan Zhu<sup>\*</sup>, Wenzheng Qin<sup>\*</sup>, [Yizhe Zhang](https://yizhezhang.com/), Pinghong Zhou, Quanlin Li, [Shuo Wang](https://swang.miccai.cloud/), Zhijian Song  
 *arXiv preprint*, 2022  
 
 
