@@ -25,6 +25,15 @@ __Haoran Wang<sup>\*</sup>__, Yan Zhu<sup>\*</sup>, Wenzheng Qin<sup>\*</sup>, [
 *arXiv preprint*, 2022  
 [arXiv](https://arxiv.org/abs/2210.06385)  
 
+2. **Deep active learning models for imbalanced image classification**  
+[Qiuye Jin](https://scholar.google.com/citations?user=tpaRKNAAAAAJ), [Mingzhi Yuan](https://scholar.google.com/citations?hl=en&user=oheIjbUAAAAJ), __Haoran Wang__, Manning Wang, Zhijian Song  
+*Knowledge-Based Systems* (IF = 8.139), 2022  
+[Paper](https://www.sciencedirect.com/science/article/pii/S0950705122009248) 
+
+2. **Cold-start active learning for image classification**  
+[Qiuye Jin](https://scholar.google.com/citations?user=tpaRKNAAAAAJ), [Mingzhi Yuan](https://scholar.google.com/citations?hl=en&user=oheIjbUAAAAJ), Shiman Li, __Haoran Wang__, Manning Wang, Zhijian Song  
+*Information Sciences* (IF = 8.233), 2022  
+[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522011768) 
 
 1. **Prediction model of hemorrhage transformation in patient with acute ischemic stroke based on multiparametric MRI radiomics and machine learning**  
 Yucong Meng<sup>\*</sup>, __Haoran Wang<sup>\*</sup>__, Chuanfu Wu<sup>\*</sup>, Xiaoyu Liu, Linhao Qu, Yonghong Shi  
