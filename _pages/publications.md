@@ -8,7 +8,12 @@ author_profile: true
 
 ### 2023
 
-1. **Multi-organ segmentation: a progressive exploration of learning paradigms under scarce annotation**  
+1. **Segmentation of Portal Vein in Multiphase CTA Image Based on Unsupervised Domain Transfer and Pseudo Label**  
+Genshen Song, Ziyue Xie, __Haoran Wang__, Shiman Li, Demin Yao, Shiyao Chen, Yonghong Shi  
+*Diagnostics* (IF = 3.6), 2023  
+[Paper](https://www.mdpi.com/2075-4418/13/13/2250)  
+
+2. **Multi-organ segmentation: a progressive exploration of learning paradigms under scarce annotation**  
 Shiman Li, __Haoran Wang__, Yucong Meng, Chenxi Zhang, Zhijian Song  
 *arXiv preprint*, 2023  
 [arXiv](https://arxiv.org/abs/2302.03296)  
@@ -18,7 +23,6 @@ Shiman Li, __Haoran Wang__, Yucong Meng, Chenxi Zhang, Zhijian Song
 __Haoran Wang<sup>\*</sup>__, Yan Zhu<sup>\*</sup>, Wenzheng Qin<sup>\*</sup>, [Yizhe Zhang](https://yizhezhang.com/), Pinghong Zhou, Quanlin Li, [Shuo Wang](https://swang.miccai.cloud/), Zhijian Song  
 *arXiv preprint*, 2022  
 [arXiv](https://arxiv.org/abs/2212.12204) | [Code](https://github.com/LightersWang/EndoBoost_FPPD13) | [Project Page](https://endoboost.miccai.cloud/EndoBoost_FPPD13/)  
-
 
 3. **The Extreme Cardiac MRI Analysis Challenge under Respiratory Motion (CMRxMotion)**  
 [Shuo Wang](https://swang.miccai.cloud/), Chen Qin, Chengyan Wang, Kang Wang, __Haoran Wang__, Chen Chen, Cheng Ouyang, Xutong Kuang, Chengliang Dai, Yuanhan Mo, Zhang Shi, Chenchen Dai, Xinrong Chen, He Wang, Wenjia Bai  
