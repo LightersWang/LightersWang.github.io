@@ -7,13 +7,16 @@ author_profile: true
 
 
 ### 2023
+1. **PI-NeRF: A Partial-Invertible Neural Radiance Fields for Pose Estimation**  
+Zhihao Li, Kexue Fu, __Haoran Wang__, Manning Wang  
+*ACM MM*, 2023  
 
-1. **Segmentation of Portal Vein in Multiphase CTA Image Based on Unsupervised Domain Transfer and Pseudo Label**  
+2. **Segmentation of Portal Vein in Multiphase CTA Image Based on Unsupervised Domain Transfer and Pseudo Label**  
 Genshen Song, Ziyue Xie, __Haoran Wang__, Shiman Li, Demin Yao, Shiyao Chen, Yonghong Shi  
 *Diagnostics* (IF = 3.6), 2023  
 [Paper](https://www.mdpi.com/2075-4418/13/13/2250)  
 
-2. **Multi-organ segmentation: a progressive exploration of learning paradigms under scarce annotation**  
+3. **Multi-organ segmentation: a progressive exploration of learning paradigms under scarce annotation**  
 Shiman Li, __Haoran Wang__, Yucong Meng, Chenxi Zhang, Zhijian Song  
 *arXiv preprint*, 2023  
 [arXiv](https://arxiv.org/abs/2302.03296)  
