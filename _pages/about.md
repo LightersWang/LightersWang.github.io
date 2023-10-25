@@ -13,6 +13,8 @@ My name is Haoran Wang. I'm a PhD candidate in Shanghai Medical College, Fudan U
 
 News
 ======
+- \[Oct. 2023\] Our survey paper __A comprehensive survey on deep active learning and its applications in medical image analysis__ is available on [arXiv](https://arxiv.org/abs/2310.14230)! 
+
 - \[Apr. 2023\] Serve as a reviewer of MICCAI 2023. 
 
 - \[Feb. 2023\] Our survey paper __Multi-organ segmentation: a progressive exploration of learning paradigms under scarce annotation__ is available on [arXiv](https://arxiv.org/abs/2302.03296)! 
