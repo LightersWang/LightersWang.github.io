@@ -18,12 +18,13 @@ Zhihao Li, Kexue Fu, __Haoran Wang__, Manning Wang
 [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612590)  
 
 3. **Improving Brain Tumor Segmentation with Anatomical Prior-Informed Pre-training**  
-Kang Wang, Zeyang Li, __Haoran Wang__, Siyu Liu, Mingyuan Pan, Manning Wang, Shuo Wang, Zhijian Song  
-Frontiers in Medicine  
+Kang Wang, Zeyang Li, __Haoran Wang__, Siyu Liu, Mingyuan Pan, Manning Wang, [Shuo Wang](https://swang.miccai.cloud/), Zhijian Song  
+*Frontiers in Medicine (IF=3.9)*  
 [Paper](https://www.frontiersin.org/articles/10.3389/fmed.2023.1211800/full)  
 
 4. **CMRxRecon: An open cardiac MRI dataset for the competition of accelerated image reconstruction**  
-Chengyan Wang, Jun Lyu, Shuo Wang, Chen Qin, Kunyuan Guo, Xinyu Zhang, Xiaotong Yu, Yan Li, Fanwen Wang, Jianhua Jin, Zhang Shi, Ziqiang Xu, Yapeng Tian, Sha Hua, Zhensen Chen, Meng Liu, Mengting Sun, Xutong Kuang, Kang Wang, __Haoran Wang__, Hao Li, Yinghua Chu, Guang Yang, Wenjia Bai, Xiahai Zhuang, He Wang, Jing Qin, Xiaobo Qu  
+Chengyan Wang, Jun Lyu, [Shuo Wang](https://swang.miccai.cloud/), Chen Qin, Kunyuan Guo, Xinyu Zhang, Xiaotong Yu, Yan Li, Fanwen Wang, Jianhua Jin, Zhang Shi, Ziqiang Xu, Yapeng Tian, Sha Hua, Zhensen Chen, Meng Liu, Mengting Sun, Xutong Kuang, Kang Wang, __Haoran Wang__, Hao Li, Yinghua Chu, Guang Yang, Wenjia Bai, Xiahai Zhuang, He Wang, Jing Qin, Xiaobo Qu  
+*arXiv preprint*, 2023  
 [arXiv](https://arxiv.org/abs/2309.10836)  
 
 5. **Segmentation of Portal Vein in Multiphase CTA Image Based on Unsupervised Domain Transfer and Pseudo Label**  
