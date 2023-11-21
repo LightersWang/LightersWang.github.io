@@ -19,6 +19,7 @@ Zhihao Li, Kexue Fu, __Haoran Wang__, Manning Wang
 
 3. **Improving Brain Tumor Segmentation with Anatomical Prior-Informed Pre-training**  
 Kang Wang, Zeyang Li, __Haoran Wang__, Siyu Liu, Mingyuan Pan, Manning Wang, Shuo Wang, Zhijian Song  
+Frontiers in Medicine  
 [Paper](https://www.frontiersin.org/articles/10.3389/fmed.2023.1211800/full)  
 
 4. **CMRxRecon: An open cardiac MRI dataset for the competition of accelerated image reconstruction**  
