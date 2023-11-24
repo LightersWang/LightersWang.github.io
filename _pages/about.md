@@ -19,7 +19,7 @@ News
 
 <!-- - \[Feb. 2023\] Our survey paper __Multi-organ segmentation: a progressive exploration of learning paradigms under scarce annotation__ is available on [arXiv](https://arxiv.org/abs/2302.03296)!  -->
 
-- \[2022.12\] Our paper __EndoBoost: a plug-and-play module for false positive suppression during computer-aided polyp detection in real-world colonoscopy (with dataset)__ is available on [arXiv](https://arxiv.org/abs/2212.12204)! See the [Project Page](https://endoboost.miccai.cloud/EndoBoost_FPPD13/) for dataset download and other details.
+- \[2022.12\] Our paper __EndoBoost: a plug-and-play module for false positive suppression during computer-aided polyp detection in real-world colonoscopy (with dataset)__ is available on [arXiv](https://arxiv.org/abs/2212.12204)! See the [Project Page](https://lighterswang.github.io/EndoBoost_FPPD13/) for dataset download and other details.
 
 - \[2022.09\] As a co-organizer, [CMRxMotion](http://cmr.miccai.cloud/) challenge is successfully held in [MICCAI 2022 STACOM Workshop](https://stacom.github.io/stacom2022/)!
 

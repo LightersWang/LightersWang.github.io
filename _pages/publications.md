@@ -8,17 +8,17 @@ author_profile: true
 
 ### 2023
 1. **A comprehensive survey on deep active learning and its applications in medical image analysis**  
-__Haoran Wang__, [Qiuye Jin](https://scholar.google.com/citations?user=tpaRKNAAAAAJ), Shiman Li, Siyu Liu, Manning Wang, Zhijian Song  
+__Haoran Wang__, [Qiuye Jin](https://scholar.google.com/citations?user=tpaRKNAAAAAJ), Shiman Li, Siyu Liu, [Manning Wang](https://scholar.google.com/citations?user=6I8hSp8AAAAJ&hl=en&oi=ao), Zhijian Song  
 *arXiv preprint*, 2023  
 [arXiv](https://arxiv.org/abs/2310.14230) | [Paper List](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis)  
 
 2. **PI-NeRF: A Partial-Invertible Neural Radiance Fields for Pose Estimation**  
-Zhihao Li, Kexue Fu, __Haoran Wang__, Manning Wang  
+Zhihao Li, Kexue Fu, __Haoran Wang__, [Manning Wang](https://scholar.google.com/citations?user=6I8hSp8AAAAJ&hl=en&oi=ao)  
 *ACM International Conference on Multimedia (CCF-A)*, 2023  
 [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612590)  
 
 3. **Improving Brain Tumor Segmentation with Anatomical Prior-Informed Pre-training**  
-Kang Wang, Zeyang Li, __Haoran Wang__, Siyu Liu, Mingyuan Pan, Manning Wang, [Shuo Wang](https://swang.miccai.cloud/), Zhijian Song  
+Kang Wang, Zeyang Li, __Haoran Wang__, Siyu Liu, Mingyuan Pan, [Manning Wang](https://scholar.google.com/citations?user=6I8hSp8AAAAJ&hl=en&oi=ao), [Shuo Wang](https://swang.miccai.cloud/), Zhijian Song  
 *Frontiers in Medicine (IF=3.9)*  
 [Paper](https://www.frontiersin.org/articles/10.3389/fmed.2023.1211800/full)  
 
@@ -49,12 +49,12 @@ __Haoran Wang<sup>\*</sup>__, Yan Zhu<sup>\*</sup>, Wenzheng Qin<sup>\*</sup>, [
 [arXiv](https://arxiv.org/abs/2210.06385)  
 
 3. **Deep active learning models for imbalanced image classification**  
-[Qiuye Jin](https://scholar.google.com/citations?user=tpaRKNAAAAAJ), [Mingzhi Yuan](https://scholar.google.com/citations?hl=en&user=oheIjbUAAAAJ), __Haoran Wang__, Manning Wang, Zhijian Song  
+[Qiuye Jin](https://scholar.google.com/citations?user=tpaRKNAAAAAJ), [Mingzhi Yuan](https://scholar.google.com/citations?hl=en&user=oheIjbUAAAAJ), __Haoran Wang__, [Manning Wang](https://scholar.google.com/citations?user=6I8hSp8AAAAJ&hl=en&oi=ao), Zhijian Song  
 *Knowledge-Based Systems* (IF = 8.139), 2022  
 [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122009248) 
 
 4. **Cold-start active learning for image classification**  
-[Qiuye Jin](https://scholar.google.com/citations?user=tpaRKNAAAAAJ), [Mingzhi Yuan](https://scholar.google.com/citations?hl=en&user=oheIjbUAAAAJ), Shiman Li, __Haoran Wang__, Manning Wang, Zhijian Song  
+[Qiuye Jin](https://scholar.google.com/citations?user=tpaRKNAAAAAJ), [Mingzhi Yuan](https://scholar.google.com/citations?hl=en&user=oheIjbUAAAAJ), Shiman Li, __Haoran Wang__, [Manning Wang](https://scholar.google.com/citations?user=6I8hSp8AAAAJ&hl=en&oi=ao), Zhijian Song  
 *Information Sciences* (IF = 8.233), 2022  
 [Paper](https://www.sciencedirect.com/science/article/pii/S0020025522011768) 
 
@@ -66,6 +66,6 @@ Yucong Meng<sup>\*</sup>, __Haoran Wang<sup>\*</sup>__, Chuanfu Wu<sup>\*</sup>,
 ### 2021
 
 1. **Quality-Aware Model Ensemble for Brain Tumor Segmentation**  
-Kang Wang<sup>\*</sup>, __Haoran Wang<sup>\*</sup>__, Zeyang Li, Mingyuan Pan, Manning Wang, [Shuo Wang](https://swang.miccai.cloud/), Zhijian Song  
+Kang Wang<sup>\*</sup>, __Haoran Wang<sup>\*</sup>__, Zeyang Li, Mingyuan Pan, [Manning Wang](https://scholar.google.com/citations?user=6I8hSp8AAAAJ&hl=en&oi=ao), [Shuo Wang](https://swang.miccai.cloud/), Zhijian Song  
 *MICCAI BrainLes*, 2021  
 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-09002-8_14)  
