@@ -13,6 +13,8 @@ My name is Haoran Wang. I'm a PhD candidate in Shanghai Medical College, Fudan U
 
 News
 ======
+- \[2024.03\] Our survey paper __Multi-organ segmentation: a progressive exploration of learning paradigms under scarce annotation__ is accepted by [Physics in Medicine & Biology](https://iopscience.iop.org/article/10.1088/1361-6560/ad33b5)! 
+- 
 - \[2023.10\] Our survey paper __A comprehensive survey on deep active learning and its applications in medical image analysis__ is available on [arXiv](https://arxiv.org/abs/2310.14230)! A [paper list](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis) about acitve learning in medical image analysis and computer vision is also available.
 
 - \[2023.04\] I served as a reviewer of MICCAI 2023. 

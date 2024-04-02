@@ -10,13 +10,13 @@ author_profile: true
 1. **Multi-organ segmentation: a progressive exploration of learning paradigms under scarce annotation**  
 Shiman Li, __Haoran Wang__, Yucong Meng, Chenxi Zhang, Zhijian Song  
 *Physics in Medicine and Biology (IF = 3.5)*, 2024  
-[Paper]() | [arXiv](https://arxiv.org/abs/2302.03296)  
+[Paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad33b5) | [arXiv](https://arxiv.org/abs/2302.03296)  
 
 ### 2023
-1. **A comprehensive survey on deep active learning and its applications in medical image analysis**  
+1. **A comprehensive survey on deep active learning in medical image analysis**  
 __Haoran Wang__, [Qiuye Jin](https://scholar.google.com/citations?user=tpaRKNAAAAAJ), Shiman Li, Siyu Liu, [Manning Wang](https://scholar.google.com/citations?user=6I8hSp8AAAAJ&hl=en&oi=ao), Zhijian Song  
 *arXiv preprint*, 2023  
-[arXiv](https://arxiv.org/abs/2310.14230) | [Paper List](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis)  
+[arXiv](https://arxiv.org/abs/2310.14230) | [Paper List & Code](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis)  
 
 2. **PI-NeRF: A Partial-Invertible Neural Radiance Fields for Pose Estimation**  
 Zhihao Li, Kexue Fu, __Haoran Wang__, [Manning Wang](https://scholar.google.com/citations?user=6I8hSp8AAAAJ&hl=en&oi=ao)  
