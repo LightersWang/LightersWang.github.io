@@ -16,7 +16,7 @@ Shiman Li, __Haoran Wang__, Yucong Meng, Chenxi Zhang, Zhijian Song
 1. **A comprehensive survey on deep active learning in medical image analysis**  
 __Haoran Wang__, [Qiuye Jin](https://scholar.google.com/citations?user=tpaRKNAAAAAJ), Shiman Li, Siyu Liu, [Manning Wang](https://scholar.google.com/citations?user=6I8hSp8AAAAJ&hl=en&oi=ao), Zhijian Song  
 *arXiv preprint*, 2023  
-[arXiv](https://arxiv.org/abs/2310.14230) | [Paper List & Code](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis)  
+[arXiv](https://arxiv.org/abs/2310.14230) | [Paper List](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis) | [Code](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis/tree/main/code)  
 
 2. **PI-NeRF: A Partial-Invertible Neural Radiance Fields for Pose Estimation**  
 Zhihao Li, Kexue Fu, __Haoran Wang__, [Manning Wang](https://scholar.google.com/citations?user=6I8hSp8AAAAJ&hl=en&oi=ao)  
