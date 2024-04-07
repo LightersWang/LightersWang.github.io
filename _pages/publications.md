@@ -8,7 +8,7 @@ author_profile: true
 ### 2024
 
 1. **White matter biomarker for predicting de novo Parkinson’s disease using tract-based spatial statistics: a machine learning-based model**  
-Qi Zhang, __Haoran Wang__, Yonghong Shi, Wensheng Li
+Qi Zhang, __Haoran Wang__, Yonghong Shi, Wensheng Li  
 *Quantitative Imaging in Medicine and Surgery (IF = 2.8)*, 2024  
 [Paper](https://qims.amegroups.org/article/view/123036/html)
 
