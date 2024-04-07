@@ -7,7 +7,12 @@ author_profile: true
 
 ### 2024
 
-1. **Multi-organ segmentation: a progressive exploration of learning paradigms under scarce annotation**  
+1. **White matter biomarker for predicting de novo Parkinson’s disease using tract-based spatial statistics: a machine learning-based model**  
+Qi Zhang, __Haoran Wang__, Yonghong Shi, Wensheng Li
+*Quantitative Imaging in Medicine and Surgery (IF = 2.8)*, 2024  
+[Paper](https://qims.amegroups.org/article/view/123036/html)
+
+2. **Multi-organ segmentation: a progressive exploration of learning paradigms under scarce annotation**  
 Shiman Li, __Haoran Wang__, Yucong Meng, Chenxi Zhang, Zhijian Song  
 *Physics in Medicine and Biology (IF = 3.5)*, 2024  
 [Paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad33b5) | [arXiv](https://arxiv.org/abs/2302.03296)  
