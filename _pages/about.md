@@ -13,7 +13,7 @@ My name is Haoran Wang. I'm a PhD candidate in Shanghai Medical College, Fudan U
 
 News
 ======
-- \[2024.05\] Our survey paper __A comprehensive survey on deep active learning and its applications in medical image analysis__ is accepted by [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841524001269#b178)! See [here](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis) for the accompanying paper list and source code!
+- \[2024.05\] Our survey paper __A comprehensive survey on deep active learning in medical image analysis__ is accepted by [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841524001269#b178)! See [here](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis) for the accompanying paper list and source code!
 
 - \[2024.05\] I served as a reviewer of MICCAI 2024 and MM 2024. 
 
